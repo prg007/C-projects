@@ -28,6 +28,13 @@ TSP-4
 Parallelizing the genetic algorithm using multithreading. It gives the most efficient approach towards solving the
 Travelling Salesman Problem and almost finds a perfect answer towards solving the TSP problem
 
+Lets-Network
+This is a zip file as the original folder was too big to upload. This zip file contains client and server files written in C. The server side is written using the crow library and the client side is written using the cpr library. More info on this over here [Let's Network Project](https://github.com/prg007/Lets_Network) 
+
+
+Demonstrates the use of multithreading in C++. Using multithreading we saw remarkable improvements in the throughput and the latency of the requests we sent from the client to the server. More details over here
+[Let's Network Project](https://github.com/prg007/HW6)
+
 Keep
 Encryption engine and password manager
 
