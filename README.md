@@ -33,7 +33,7 @@ This is a zip file as the original folder was too big to upload. This zip file c
 
 
 Demonstrates the use of multithreading in C++. Using multithreading we saw remarkable improvements in the throughput and the latency of the requests we sent from the client to the server. More details over here
-[Let's Network Project](https://github.com/prg007/HW6)
+[Efficiency of Multithreading in Throughput and Latency (C++)](https://github.com/prg007/HW6)
 
 Keep
 Encryption engine and password manager
