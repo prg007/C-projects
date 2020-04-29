@@ -1,5 +1,5 @@
 # C-projects
-This repository contains all my C++ projects that I have built so far
+This repository contains all my C and C++ projects that I have built so far
 
 ## HUffman Encoding: 
 This is a data compression and decompression program that uses the Huffman Encoding and Decoding approach. It can compress
