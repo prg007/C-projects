@@ -29,7 +29,7 @@ Parallelizing the genetic algorithm using multithreading. It gives the most effi
 Travelling Salesman Problem and almost finds a perfect answer towards solving the TSP problem
 
 ## Lets-Network
-This is a zip file as the original folder was too big to upload. This zip file contains client and server files written in C. The server side is written using the crow library and the client side is written using the cpr library. More info on this over here [Let's Network Project](https://github.com/prg007/Lets_Network) 
+This is a zip file as the original folder was too big to upload.This is a web-cache with a RESTful API that allowed multiple clients over the multithreaded server to access the cache. The design of the cache is based on Facebook's Memcache, and required a lot of test driven design strategies The server side is written using the crow library and the client side is written using the cpr library. More info on this over here [Let's Network Project](https://github.com/prg007/Lets_Network) 
 
 ## Multithreading in C++
 Demonstrates the use of multithreading in C++. Using multithreading we saw remarkable improvements in the throughput and the latency of the requests we sent from the client to the server. More details over here
