@@ -17,8 +17,7 @@ is a family of heuristics (approximation algorithms) that draw inspiration from 
 represent candidate solutions to a problem as “chromosomes”, and then mutate and “recombine” chromosomes to 
 obtain new solutions and evaluate their “fitness” (how well they solve the problem). Because fitter solutions 
 have a higher probability of getting selected for recombination and reproduction, the population of chromosomes 
-slowly converges toward solutions with higher fitness. Let’s make this concrete with an example.". The results 
-are better than the Randomized Search approach
+slowly converges toward solutions with higher fitness. The results are better than the Randomized Search approach
 
 ## TSP-3
 Experimented with different genetic operators and compared its effects to the baseline GA implementation in previous
